@@ -16,8 +16,8 @@ while (j < 8)
 {
 _putchar (a[i][j]);
 j++;
-}														
--putchar ('\n'); /*print new line*/
+}
+_putchar ('\n'); /*print new line*/
 i++; /*add +1*/
 }
 }
